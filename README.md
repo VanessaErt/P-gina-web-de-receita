@@ -1,4 +1,4 @@
-# P-gina-web-de-receita
+# Página web de receita :cake:
 ## Desafio proposto pela Rocketset onde precisei criar uma página web para uma receita.
 
 O objetivo era construir uma aplicação simples, mas funcional, que incluísse os seguintes elementos:
